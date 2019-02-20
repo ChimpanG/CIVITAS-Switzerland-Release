@@ -30,8 +30,8 @@ VALUES
 -- UI
 -----------------------------------------------
 
-	("LOC_DISTRICT_CVS_SWITZERLAND_UI_NAME",	"de_DE",	"Kantonsparlament"	),
-	("LOC_DISTRICT_CVS_SWITZERLAND_UI_DESCRIPTION",	"de_DE",
+	("LOC_BUILDING_CVS_SWITZERLAND_UI_NAME",	"de_DE",	"Kantonsparlament"	),
+	("LOC_BUILDING_CVS_SWITZERLAND_UI_DESCRIPTION",	"de_DE",
 	"Ein einzigartiger Bezirk der Schweiz. Benachbarte Spezialbezirke des Kantonsparlamens erhalten zusätzliche Erträge für jeden verbündeten Stadtstaat, der ihren Typus teilt. Kann nicht in einer Stadt gebaut werden, inder es schon ein Regierungsgebäude gibt. Gewährt zugang zum Kantonsrat-projekt."	),
 
 -----------------------------------------------
@@ -116,9 +116,9 @@ VALUES
 	("LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CVS_SWITZERLAND_CHAPTER_HISTORY_PARA_4",	"de_DE",
 	"A product of the European balance of power and, after 1499, attacked only once in 1798, Switzerland has enjoyed peace for most of its existence and was spared from two world wars in the 20th century when the gradually developed concept of “armed neutrality” was respected by its neighbours. Economic prosperity largely followed as Switzerland adapted to the Industrial Revolution and the growth of international finance markets. It stands today as one of the wealthiest nations in the world."),
 		
-	("LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_SWITZERLAND_UI_CHAPTER_HISTORY_PARA_1",	"de_DE",
+	("LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CVS_SWITZERLAND_UI_CHAPTER_HISTORY_PARA_1",	"de_DE",
 	"The Swiss Confederation is divided into 26 cantons, each of which has its own constitution and assembly in the form of a Cantonal Parlament, or 'Kantonsparlament' in German. The cantons exercise broad authority, possessing all powers not specifically given to the federal government."),
-	("LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CVS_SWITZERLAND_UI_CHAPTER_HISTORY_PARA_2",	"de_DE",
+	("LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CVS_SWITZERLAND_UI_CHAPTER_HISTORY_PARA_2",	"de_DE",
 	"The Swiss Confederation consists of some 3,000 communes, which are responsible for public utilities and roads and, like the cantons, are largely autonomous. From the multiplicity of small communal republics stem a special quality to each and, paradoxically, a basis of national unity, for each citizen treasures and supports the freedom of the commune, a shared conviction that unites a citizen with the rest of the population in a way that transcends differences of language and of party."),
 	
 	("LOC_PEDIA_PROJECTS_PAGE_PROJECT_CVS_SWITZERLAND_UP_CHAPTER_HISTORY_PARA_1",	"de_DE",
